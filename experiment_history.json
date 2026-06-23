@@ -1,23 +1,23 @@
 [
   {
     "competition_name": "titanic",
-    "timestamp": "2026-06-20T01:49:40.000184",
-    "submission_file": "/content/submission.csv",
-    "submission_message": "Agentic AI Data Science Team v1 Logistic Regression baseline",
+    "timestamp": "2026-06-23T00:18:04.251464",
+    "submission_file": "/content/submission_gradient_boosting.csv",
+    "submission_message": "Agentic AI Data Science Team v2 Gradient Boosting cross validation winner",
     "kaggle_response": [
       "Warning: Looks like you're using an outdated `kaggle` version (installed: 2.0.2), please consider upgrading to the latest version (2.2.2)",
       "",
       "  0% 0.00/2.77k [00:00<?, ?B/s]",
-      "100% 2.77k/2.77k [00:01<00:00, 1.83kB/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 13.0kB/s]",
       "Successfully submitted to Titanic - Machine Learning from Disaster"
     ],
-    "public_score": 0.74641,
+    "public_score": 0.76076,
     "private_score": null,
-    "model_used": "LogisticRegression",
-    "validation_accuracy": 0.8156,
-    "validation_f1": 0.7692,
-    "validation_auc": 0.8692,
+    "model_used": "GradientBoostingClassifier",
+    "validation_accuracy": 0.8249,
+    "validation_f1": null,
+    "validation_auc": null,
     "evaluation_ready_for_submission": true,
-    "evaluation_summary": "LogisticRegression achieved 81.56% validation accuracy with strong AUC of 0.8692 and F1 of 0.7692. Performance is solid for a baseline model on the Titanic dataset with moderate class imbalance. The model demonstrates good generalization without signs of severe overfitting. Ready for first baseline submission to establish a benchmark score."
+    "evaluation_summary": "GradientBoostingClassifier demonstrates superior cross-validation performance with mean accuracy of 0.8249 and low variance (0.0181), indicating robust generalization. LogisticRegression achieved highest single validation accuracy (0.8156) but shows lower cross-validation mean (0.8092). GradientBoostingClassifier's consistency across folds and higher mean performance make it the preferred choice despite slightly lower single-split accuracy. All models show reasonable performance on binary classification task with moderate class imbalance."
   }
 ]
