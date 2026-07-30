@@ -83,5 +83,39 @@
     "private_score": null,
     "model_used": "VotingRegressor",
     "ensemble_used": true
+  },
+  {
+    "competition_name": "titanic",
+    "timestamp": "2026-07-30T21:18:52.947549",
+    "submission_file": "/content/titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/2.77k [00:00<?, ?B/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 11.7kB/s]",
+      "3 submissions remaining today.",
+      "Successfully submitted to Titanic - Machine Learning from Disaster"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-30T21:50:10.150311",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 290kB/s]",
+      "9 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
   }
 ]
