@@ -1,0 +1,87 @@
+[
+  {
+    "competition_name": "titanic",
+    "timestamp": "2026-07-30T03:40:32.976868",
+    "submission_file": "/content/titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "Warning: Looks like you're using an outdated `kaggle` version (installed: 2.0.2), please consider upgrading to the latest version (2.2.2)",
+      "",
+      "  0% 0.00/2.77k [00:00<?, ?B/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 4.21kB/s]",
+      "Successfully submitted to Titanic - Machine Learning from Disaster"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "house-prices-advanced-regression-techniques",
+    "timestamp": "2026-07-30T05:36:39.711452",
+    "submission_file": "/content/house_prices_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/33.6k [00:00<?, ?B/s]",
+      "100% 33.6k/33.6k [00:00<00:00, 51.2kB/s]",
+      "9 submissions remaining today.",
+      "Successfully submitted to House Prices - Advanced Regression Techniques"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "VotingRegressor",
+    "ensemble_used": true
+  },
+  {
+    "competition_name": "house-prices-advanced-regression-techniques",
+    "timestamp": "2026-07-30T06:03:13.400883",
+    "submission_file": "/content/house_prices_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/33.7k [00:00<?, ?B/s]",
+      "100% 33.7k/33.7k [00:00<00:00, 50.8kB/s]",
+      "8 submissions remaining today.",
+      "Successfully submitted to House Prices - Advanced Regression Techniques"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "VotingRegressor",
+    "ensemble_used": true
+  },
+  {
+    "competition_name": "titanic",
+    "timestamp": "2026-07-30T07:20:31.252533",
+    "submission_file": "/content/titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/2.77k [00:00<?, ?B/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 4.11kB/s]",
+      "4 submissions remaining today.",
+      "Successfully submitted to Titanic - Machine Learning from Disaster"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "house-prices-advanced-regression-techniques",
+    "timestamp": "2026-07-30T07:45:06.277421",
+    "submission_file": "/content/house_prices_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/33.7k [00:00<?, ?B/s]",
+      "100% 33.7k/33.7k [00:00<00:00, 46.1kB/s]",
+      "7 submissions remaining today.",
+      "Successfully submitted to House Prices - Advanced Regression Techniques"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "VotingRegressor",
+    "ensemble_used": true
+  }
+]
