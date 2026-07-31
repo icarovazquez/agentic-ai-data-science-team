@@ -117,5 +117,147 @@
     "private_score": null,
     "model_used": "GradientBoostingClassifier",
     "ensemble_used": false
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T01:24:56.274023",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 298kB/s]",
+      "9 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T01:39:12.633886",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 324kB/s]",
+      "8 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "SoftVotingClassifier",
+    "ensemble_used": true
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T01:50:22.681821",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 305kB/s]",
+      "7 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "titanic",
+    "timestamp": "2026-07-31T02:22:16.580482",
+    "submission_file": "/content/titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/2.77k [00:00<?, ?B/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 12.6kB/s]",
+      "9 submissions remaining today.",
+      "Successfully submitted to Titanic - Machine Learning from Disaster"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "titanic",
+    "timestamp": "2026-07-31T02:54:27.737765",
+    "submission_file": "/content/titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/2.77k [00:00<?, ?B/s]",
+      "100% 2.77k/2.77k [00:00<00:00, 16.9kB/s]",
+      "8 submissions remaining today.",
+      "Successfully submitted to Titanic - Machine Learning from Disaster"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T03:01:58.312482",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 340kB/s]",
+      "6 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T03:50:57.528622",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 291kB/s]",
+      "5 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false,
+    "llm_prompt_tokens": null,
+    "llm_completion_tokens": null,
+    "llm_total_tokens": null
+  },
+  {
+    "competition_name": "spaceship-titanic",
+    "timestamp": "2026-07-31T04:16:46.240201",
+    "submission_file": "/content/spaceship_titanic_submission.csv",
+    "submission_message": "Generalized Agentic AI Data Science Team v1",
+    "kaggle_response": [
+      "",
+      "  0% 0.00/56.2k [00:00<?, ?B/s]",
+      "100% 56.2k/56.2k [00:00<00:00, 310kB/s]",
+      "4 submissions remaining today.",
+      "Successfully submitted to Spaceship Titanic"
+    ],
+    "public_score": null,
+    "private_score": null,
+    "model_used": "GradientBoostingClassifier",
+    "ensemble_used": false,
+    "llm_prompt_tokens": 10494,
+    "llm_completion_tokens": 4622,
+    "llm_total_tokens": 15116
   }
 ]
